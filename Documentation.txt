@@ -1,0 +1,7 @@
+STEP 1: Upload the image in jpg/png format.
+STEP 2: The code will run and extract text from the image .
+	Our code makes use of the "easyocr" library. 
+	Our code is capable of extracting text from image in 20+ languages
+	including English , Hindi , French , Marathi , and many more .
+STEP 3: So after the code is done extracting the text from the image it stores 
+	the collected data into a file with .doc where it can be easily accessed .

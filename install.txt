@@ -1,0 +1,12 @@
+# Run in command prompt or terminal
+
+# for Login
+pip install virtualenv
+pip install flask
+
+# for scanner
+pip install torch==1.7.0+cpu torchvision==0.8.1+cpu torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+pip install torchvision
+
+pip install git+git://github.com/jaidedai/easyocr.git
